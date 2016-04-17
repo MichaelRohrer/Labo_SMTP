@@ -1,0 +1,7 @@
+port = 8000
+domain = heig-vd.ch
+smtpServer = localhost
+nbGroup = 2
+grpSize = 3
+mailList = textSrc/excuse1.txt
+mailingList = textSrc/mailing_list.txt
