@@ -23,8 +23,8 @@ In order to use our tool, you have to edit the following files:
 	    smtpServer = mailcl0.heig-vd.ch
 	    nbGroup = 2
 	    grpSize = 3
-		 mailList = textSrc/mails.txt
-		 mailingList = textSrc/mailing_list.txt
+		mailList = textSrc/mails.txt
+		mailingList = textSrc/mailing_list.txt
 	
 	*port*: number of the port you want to connect to in order to reach the smtp server.
 	
