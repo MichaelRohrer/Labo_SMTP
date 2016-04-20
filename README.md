@@ -18,13 +18,13 @@ In order to use our tool, you have to edit the following files:
 
 	The config.txt file contains the following fields: 
 	
-	    port = 8000  
+	    port = 25  
 	    domain = heig-vd.ch
-	    smtpServer = mail.heig-vd.ch
-	    nbGroup = 3
-	    grpSize = 5
-		mailList = mails.txt
-		mailingList = mailing_list.txt
+	    smtpServer = mailcl0.heig-vd.ch
+	    nbGroup = 2
+	    grpSize = 3
+		 mailList = textSrc/mails.txt
+		 mailingList = textSrc/mailing_list.txt
 	
 	*port*: number of the port you want to connect to in order to reach the smtp server.
 	
